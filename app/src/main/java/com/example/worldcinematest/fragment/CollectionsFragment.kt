@@ -15,8 +15,8 @@ import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.worldcinematest.common.AppDatabase
-import com.example.worldcinematest.common.MyCollection
-import com.example.worldcinematest.common.MyCollectionAdapter
+import com.example.worldcinematest.collection.MyCollection
+import com.example.worldcinematest.collection.MyCollectionAdapter
 import com.example.worldcinematest.R
 import com.example.worldcinematest.activity.EditorActivity
 import java.util.ArrayList

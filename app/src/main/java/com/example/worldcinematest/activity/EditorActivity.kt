@@ -2,15 +2,14 @@ package com.example.worldcinematest.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import android.view.View.GONE
 import android.view.View.VISIBLE
 import android.widget.Toast
 import androidx.recyclerview.widget.GridLayoutManager
 import com.example.worldcinematest.common.AppDatabase
-import com.example.worldcinematest.common.CollectionIcon
-import com.example.worldcinematest.common.CollectionIconAdapter
-import com.example.worldcinematest.common.MyCollection
+import com.example.worldcinematest.collection.CollectionIcon
+import com.example.worldcinematest.collection.CollectionIconAdapter
+import com.example.worldcinematest.collection.MyCollection
 import com.example.worldcinematest.R
 import com.example.worldcinematest.databinding.ActivityEditorBinding
 

@@ -1,22 +1,17 @@
 package com.example.worldcinematest.fragment
 
 import android.app.Activity.RESULT_OK
-import android.content.Context
 import android.content.Intent
 import android.content.SharedPreferences
-import android.net.ConnectivityManager
-import android.net.NetworkCapabilities
 import android.os.Bundle
-import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.worldcinematest.common.AppDatabase
-import com.example.worldcinematest.common.MenuItem
-import com.example.worldcinematest.common.MenuItemAdapter
+import com.example.worldcinematest.profilemenu.MenuItem
+import com.example.worldcinematest.profilemenu.MenuItemAdapter
 import com.example.worldcinematest.R
 import com.example.worldcinematest.activity.ChatListActivity
 import com.example.worldcinematest.activity.SignUpActivity

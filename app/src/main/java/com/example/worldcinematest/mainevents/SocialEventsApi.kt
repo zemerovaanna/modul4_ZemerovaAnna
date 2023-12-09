@@ -1,4 +1,4 @@
-package com.example.worldcinematest.common
+package com.example.worldcinematest.mainevents
 
 import retrofit2.http.GET
 

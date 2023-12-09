@@ -1,4 +1,4 @@
-package com.example.worldcinematest.common
+package com.example.worldcinematest.collection
 
 import androidx.room.Dao
 import androidx.room.Delete

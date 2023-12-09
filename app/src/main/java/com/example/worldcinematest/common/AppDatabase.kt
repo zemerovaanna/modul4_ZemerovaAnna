@@ -4,6 +4,8 @@ import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
+import com.example.worldcinematest.collection.MyCollection
+import com.example.worldcinematest.collection.MyCollectionDao
 
 @Database(entities = [MyCollection::class], version = 1)
 abstract class AppDatabase : RoomDatabase() {

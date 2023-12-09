@@ -1,4 +1,4 @@
-package com.example.worldcinematest.common
+package com.example.worldcinematest.discussion
 
 import android.view.LayoutInflater
 import android.view.View
